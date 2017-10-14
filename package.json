@@ -1,0 +1,34 @@
+{
+  "name": "nyc-config-100",
+  "version": "0.0.0",
+  "description": "nyc configuration for 100% code coverage checking.",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mightyiam/nyc-config-100.git"
+  },
+  "keywords": [
+    "nyc",
+    "nyc-config",
+    "config",
+    "configuration",
+    "100",
+    "100%",
+    "check",
+    "all",
+    "full",
+    "coverage"
+  ],
+  "author": "Shahar Or <mightyiampresence@gmail.com> (mightyiam)",
+  "contributors": [
+    "David Kochav <david.kohav@gmail.com> (DavidKohav)"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mightyiam/nyc-config-100/issues"
+  },
+  "homepage": "https://github.com/mightyiam/nyc-config-100#readme"
+}
