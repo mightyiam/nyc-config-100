@@ -1,6 +1,6 @@
 {
   "name": "nyc-config-100",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "nyc configuration for 100% code coverage checking.",
   "main": "index.json",
   "scripts": {
